@@ -1,2 +1,1 @@
-API_URL=develop-version
-API_URL=feature-version
+API_URL=develop
